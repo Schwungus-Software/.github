@@ -1,3 +1,3 @@
-# Testing
+# Schwungus Software
 
-Testing stuff.
+![Schwungus](/assets/logo.png)
