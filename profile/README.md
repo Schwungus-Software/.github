@@ -1,4 +1,4 @@
-# Schwungus Software
+# Schwungus
 
 ![Schwungus](/assets/logo.png)
 
